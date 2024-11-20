@@ -38,7 +38,7 @@ This repository includes the following projects:
    - **Technologies:** Python, Natural Language Toolkit (NLTK), Scikit-learn  
    - **Key Features:** Text preprocessing, TF-IDF vectorization, and classifier evaluation.
 
-7. **[Insurance Data Visualization](./Projet_Assurance_Visualisation_.ipynb)**  
+7. **[Insurance Data Visualization](./Projet_Assurance_visualisation_.ipynb)**  
    - **Description:** Data visualization project focusing on insights and trends within the insurance sector.  
    - **Technologies:** Python, Matplotlib, Seaborn, Pandas  
    - **Key Features:** Data exploration, correlation analysis, and impactful visual storytelling.
